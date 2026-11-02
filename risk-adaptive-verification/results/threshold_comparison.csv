@@ -1,0 +1,4 @@
+strategy,Unauthorized Action Rate (%),Unsafe Action Execution Rate (%),Legitimate Task Success (%),False Rejection Rate (%),Verification Prompt Rate (%)
+Threshold-High,0.0,64.28571428571429,90.0,10.0,16.666666666666664
+Threshold-Low,0.0,35.714285714285715,70.0,30.0,79.16666666666666
+Threshold-Medium,0.0,50.0,80.0,20.0,41.66666666666667

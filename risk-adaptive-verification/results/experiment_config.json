@@ -1,0 +1,27 @@
+{
+    "project": "Risk-Adaptive Verification",
+    "python_version": "3.13.18 (main, Oct 26 2026, 15:28:15) [GCC 13.3.0]",
+    "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+    "pandas_version": "2.2.3",
+    "numpy_version": "2.1.3",
+    "matplotlib_version": "3.10.0",
+    "dataset_size": 24,
+    "strategies": [
+        "No Verification",
+        "Always Verification",
+        "Risk-Adaptive"
+    ],
+    "risk_levels": [
+        "low",
+        "medium",
+        "high"
+    ],
+    "thresholds": [
+        "low",
+        "medium",
+        "high"
+    ],
+    "authorization_check": "Common across all strategies",
+    "dataset_type": "Synthetic controlled scenarios",
+    "random_seed": "Not used; scenarios are deterministic"
+}

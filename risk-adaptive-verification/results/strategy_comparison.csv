@@ -1,0 +1,4 @@
+strategy,Unauthorized Action Rate (%),Unsafe Action Execution Rate (%),Legitimate Task Success (%),False Rejection Rate (%),Verification Prompt Rate (%)
+Always Verification,0.0,45.45454545454545,77.77777777777779,22.22222222222222,80.0
+No Verification,0.0,63.63636363636363,100.0,0.0,0.0
+Risk-Adaptive,0.0,45.45454545454545,77.77777777777779,22.22222222222222,50.0
